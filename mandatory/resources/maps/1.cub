@@ -1,0 +1,20 @@
+
+
+NO resources/assets/png/wall_1.png
+SO resources/assets/png/wall_2.png
+WE resources/assets/png/wall_3.png
+EA resources/assets/png/wall_4.png
+
+
+
+F 128, 81, 15
+C 9, 120, 143
+
+11111111111111
+10000000000001
+10111111111101
+101        101
+101        101
+10111111111101
+1000000000N001
+11111111111111

@@ -1,0 +1,5 @@
+.vscode
+*.out
+test
+_OUT
+cub3d
