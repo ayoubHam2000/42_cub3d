@@ -76,7 +76,7 @@ FILES = \
 	main.c
 
 #-Wall -Wextra -Werror
-CFLAGS = -Wall -Wextra -Werror -g 
+CFLAGS = -Wall -Wextra -Werror
 INCLUDE = -I ./includes/
 LINKING = -L/usr/local/lib -lSDL2 -lSDL2_image -lm
 # -fsanitize=address

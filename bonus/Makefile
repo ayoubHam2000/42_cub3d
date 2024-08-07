@@ -94,14 +94,14 @@ FILES = \
 	main.c
 
 #-Wall -Wextra -Werror
-CFLAGS = -Wall -Wextra -Werror -g 
+CFLAGS = -Wall -Wextra -Werror
 INCLUDE = -I ./includes/ 
 LINKING = -lSDL2 -lSDL2_image -lm
 # -fsanitize=address
 
 DEPFLAGS = -MMD -MF $(@:.o=.d)
 
-NAME = cub3d
+NAME = cub3d.out
 
 OBJ_DIR = _OUT/
 
